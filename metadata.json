@@ -1,0 +1,6 @@
+{
+  "name": "Magical Bloom 20/10 - Lời Chúc Ngày Phụ Nữ Việt Nam",
+  "description": "Ứng dụng gửi lời chúc mừng ngày Phụ nữ Việt Nam 20/10 với hiệu ứng Magical Bloom Glassmorphism độc đáo và thanh lịch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
